@@ -154,6 +154,3 @@ Este proyecto está bajo la **Licencia MIT**. Consulta el archivo `LICENSE` para
 📧 Contacto: [bryanpercy77@gmail.com](mailto:bryanpercy77@gmail.com)  
 🔗 GitHub: [github.com/bryan_percy](https://github.com/bryan_percy)
 
----
-
-### 🚀 ¡Listo para
