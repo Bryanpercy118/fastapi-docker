@@ -1,7 +1,3 @@
-Aquí tienes un **README.md** profesional y bien estructurado para tu proyecto en **Docker + FastAPI**. 🚀  
-
----
-
 ### 📌 **README.md - FastAPI con Docker**  
 
 ```markdown
